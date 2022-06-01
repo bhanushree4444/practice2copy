@@ -12,6 +12,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class Practice1testngTest {
+// Practice1testngTest 
 	@BeforeSuite(groups = "baseclass")
 	public  void beforeSuite1Test() {
 		Reporter.log("beforeSuite1",true);
