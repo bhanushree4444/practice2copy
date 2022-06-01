@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.practiceTest.Practice1testngTest"/>
+      <class name="com.practiceTest.Practice2TestngTest"/>
+      <class name="com.practiceTest.PracticeTestNgTest"/>
+      <class name="com.practiceTest.PracticeTestng2Test"/>
+      <class name="com.practiceTest.PracticTestngAssertion"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
